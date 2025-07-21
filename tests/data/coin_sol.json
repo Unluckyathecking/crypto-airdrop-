@@ -1,0 +1,10 @@
+{
+  "platforms": {"solana": "So1anaAddress"},
+  "market_data": {
+    "price_change_percentage_24h": 5,
+    "market_cap": {"usd": 5000000},
+    "circulating_supply": 500000000,
+    "total_volume": {"usd": 500000}
+  },
+  "genesis_date": "2025-06-01"
+}

@@ -1,0 +1,6 @@
+{
+  "coins": [
+    {"item": {"id": "solana-coin", "name": "SolanaCoin", "symbol": "SC"}},
+    {"item": {"id": "non-sol-coin", "name": "NonSol", "symbol": "NS"}}
+  ]
+}
