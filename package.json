@@ -1,0 +1,22 @@
+{
+  "name": "crypto-airdrop-",
+  "version": "1.0.0",
+  "description": "This repository contains utilities for finding early Solana-based memecoins. The scripts fetch trending tokens from CoinGecko, apply a heuristic scoring model, and estimate a risk level based on volume, market cap, price volatility and token age. Results can be logged continuously or run in parallel for higher coverage.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://local_proxy@127.0.0.1:45833/git/Unluckyathecking/crypto-airdrop-"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pptxgenjs": "^4.0.1"
+  }
+}
