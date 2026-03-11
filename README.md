@@ -58,3 +58,7 @@ python3 -m unittest
 ```
 
 The tests use sample historical data stored under `tests/data` to validate the scoring and filtering logic.
+
+## Documentation
+
+- [Operations, Safety, and Cost Governance](docs/OPERATIONS.md)
